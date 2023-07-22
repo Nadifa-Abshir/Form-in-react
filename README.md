@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+this is form in react
+![Screenshot 2023-07-22 123126](https://github.com/Nadifa-Abshir/Form-in-react/assets/136882040/81b9ee21-4436-4882-858d-28c29256e1da)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
